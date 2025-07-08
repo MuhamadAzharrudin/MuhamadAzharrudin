@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhamad Azharrudin</h1>
 <h3 align="center">A passionate frontend developer | knowledge seeker</h3>
 
-🏹 Yi Sun-shin lambada user
-⚡ Fun fact **I think iam bugging**
+.🏹 Yi Sun-shin lambada user
+.⚡ Fun fact **I think iam bugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

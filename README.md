@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Azharrudin</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia | knowledge seeker</h3>
 
-- 📫 How to reach me **azhargrillends001@gmail.com**
-
-- ⚡ Fun fact **I think iam bugging**
+⚡ Fun fact **I think iam bugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
